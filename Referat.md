@@ -115,7 +115,11 @@ ________________________________________
   - Faglige og personlige motivation
   - Nuværende viden
     - EPG
-    - Spørgsmål stilles til TV2 d. 3/3
+    - Spørgsmål stilles til TV2 d. 3/3  
+- Gruppen deles op i to hold for at færdiggøre og renskrive projektforslaget.
+  - Første hold står for problemstilling
+  - Andet hold står for faglige og personlige motivation, nuværende viden
+- Der arbejdes på opsætning af roadmap via ZenHub på GitHub
 
 
 ## Referat fra vejledermøde
@@ -160,5 +164,7 @@ ________________________________________
    - (Er det forskelligt fra program til program?)
 
 ## Til næste gang
+*Næste møde: d. 19/2 kl. 9 på Discord*
+- Læse om inceptionsfasen (BB -> Assignments) 
 
 _______________________________________
