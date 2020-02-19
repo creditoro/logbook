@@ -1,19 +1,12 @@
 # logbook
 ## Logbook entries
 
-- [projeckt start](projeckt_start_klassen_time.md)
-- [Uge 07](Uge07_11_02_2020.md)
+- [Holdet's time](holdets_time.md)
+- [Logbog](logbog.md)
 
+## Sådan skal logbogen læses
+Fra top til bund, så har man en helhed i hvordan vi har arbejdet. 
+TODO how to *READ logbog*
 
-Example på Logbog
+## [Example på Logbog](EXAMPLE.md)
 
-# Uge 07
-
-## Tirsdag - Projektarbejde
-## Sted: Ø22-558-1 Gr E
-## Tidspunkt: 08:00 - 14:00
-## Forbedrelse
-## Dagsorden
-## Fremødte
-## Referat:
-## Til næste gang:
