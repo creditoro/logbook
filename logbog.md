@@ -1,4 +1,13 @@
-# Uge 07
+# Index
+
+[Uge 7](# uge 7)  
+[Uge 8](# uge 8)  
+[Uge 9](# uge 9)  
+
+
+
+
+# Uge 07 - 11/02
 
 ## Tirsdag - Projektarbejde
 ## Sted: Ø22-508-1 Gr E
@@ -42,9 +51,8 @@
 ## Til næste gang
 - Have færdiggjort projektforslaget
 
-________________________________________
 
-# Uge 08 - 18/2
+# Uge 08 - 18/02
 ## Tirsdag - Projektarbejde
 ## Sted: Ø22-508-1 Gr E
 ## Tidspunkt: 08:00 - 14:00
@@ -125,7 +133,7 @@ ________________________________________
 - Læse om inceptionsfasen (BB -> Assignments) 
 
 
-# Uge 08
+# Uge 08 - 19/02
 
 ## Onsdag - Projektarbejde
 ## Sted: Discord
@@ -157,3 +165,67 @@ Samtale emner:
 - Det andet virksomhedsmøde
  
 
+# Uge 09 - 25/02
+
+## Tirsdag - Projektarbejde
+## Sted: Ø22-508-1 Gr E
+## Tidspunkt: 08:00 - 
+## Forbedrelse
+Ingenting
+
+## Dagsorden
+- Kravudvikling
+- Lave brugsmønstre over kravspecifikatoin
+- Vejledermøde
+  - Godkendelse af projektforslag
+  - Hvilket system skal vi tage udgangspunkt i, når vi laver aktørlisten?
+- Spørgsmål til TV2
+- Lav epics på GitHub  
+
+
+## Udeblivende medlemmer 
+Kristian (meldt)
+
+## Referat
+- Gruppen startede dagen ud med at kigge kravudvikling
+  - Der er blevet lavet aktørlister, brugerkrav, og systemkrav
+- Vejledermøde
+  - Projektfoslag
+     - Det ser fint ud, man kan se hvad vi vli
+     - Begynd på inceptionsdokumentet
+    - Projektrammen
+      - Oprids hvad projektet handler om, og hvad vi arbejder indenfor 
+      - Det er med at få ridset rammerne op, hvilket område arbejder vi indenfor
+      - Hvad er baggrunden for projektet
+    - Aktørlisten
+      - Databasen er ikke en aktør
+      - REST-API er ikke en aktør
+    - REST API
+      - Hvis det ender ud med at vi ikke kan nå det, skal det skrottes
+    - Forretningskrav
+      - Er de nødvendige for dette projekt?
+        - Det er mere til SE
+        - Hvis der er nogle forretningskrav i casen kan vi godt tage dem med
+          - F.eks. internationalsering er et forretningskrav
+      - Det andet virksomhedsmøde
+        - Første er til inceptionen - Mere orienteret til deres system
+        - Andet er til eleborationsfasen - Mere orienteret til vores system
+      - Spørgsmål til TV2
+         - Skal sendes senest fredag kl. 12.00
+         - Læs punkterne igennem, er der nogle sprøgsmål?
+      - Kritiske risici
+         - Hvad kan få projektet til at stoppe/gå i stå
+         - For vores vedkommende er en kritisk risici rest API'et
+             - Lav en backupplan, så vi kan håndtere en situation hvor vi ikke har tid til at lave api'et
+      - Problemformulering
+         - Skal skrives så man kan svare på det i koknklusionen
+         - Skal sendes til vejleder, med underspørgsmål
+- Gruppen fik snakket om problemformuleringen
+  - Blev enige om at forberede mindst én problemformulering med tilhørende underspørgsmål til næste gang
+
+
+## Til næste gang:
+- Som lektie til næste gang, skal hvert medlem have forberedt mindst én problemformulering med tilhørende underspørgsmål
+- Kig på projektrammer
+- Færdiggør brugsmønstre
+- Lav epics på GitHub
