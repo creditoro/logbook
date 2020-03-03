@@ -4,6 +4,8 @@
 [Uge 08](#08)  
 [Uge 09](#09)  
 [Uge 10](#10)  
+[Uge 11](#11)  
+
 
 
 * * *
@@ -281,9 +283,42 @@ Samtale emner:
 - Lav en domændemodel
 
 **Fremmødte**  
+- Alle
 
 **Referat af gruppemøde**  
+- Efter virksomhedsmødet satte gruppen sig ned og snakkede løst og fast om løsningen
 
 **Referat af virksomhedsmøde**  
+- Kan læses [her](https://syddanskuni-my.sharepoint.com/:w:/g/personal/kechr19_student_sdu_dk/EWNZs0CXsStLpf8Ucuw0LLUBPQyIG0doDZ1zwUYXvZvkfA?e=XB8Sw2)
+
+
+**Til næste møde**  
+*Afholdes i ø27-605-2*
+- Læs op på [Spring](https://spring.io/why-spring)
+- Tænk over idéer til posteren
+
+
+---
+
+<h2 id="11">Uge 11</h2>
+
+<h3>Tirsdag d. 10/03</h3>
+
+**Tid:** 08.00 - ??.??  
+**Sted:** ø27-605-2
+
+**Forberedelse**  
+- Læs op på [Spring](https://spring.io/why-spring)
+- Tænk over idéer til posteren
+
+**Dagsorden**
+- Indsæt brugsmodeller i inceptionsdokumentet
+- Lav supplerende krav
+- Lav en domændemodel
+- Lav poster
+
+**Fremmødte**  
+
+**Referat af gruppemøde**  
 
 **Til næste møde**  
