@@ -5,6 +5,7 @@
 [Uge 09](#09)  
 [Uge 10](#10)  
 [Uge 11](#11)  
+[Uge 12](#12)  
 
 
 
@@ -272,21 +273,27 @@ Samtale emner:
 **Tid:** 08.00 - ??.??  
 **Sted:** Ø22-508-1 Gr. E & U174
 
+
 **Forberedelse**  
 - Spørgsmål til TV2
 
+
 **Dagsorden**
+
 - Kig på spørgsmpål til TV2
 - [Virksomhedsmøde](https://docs.google.com/document/d/1JosMZcIe_SB9FSgGHs7PPi-Bm2wV8kju7Ek1nv8o8Y0/edit) fra 10.15 - 12.00
 - Indsæt brugsmodeller i inceptionsdokumentet
 - Lav supplerende krav
 - Lav en domændemodel
 
+
 **Fremmødte**  
 - Alle
 
+
 **Referat af gruppemøde**  
 - Efter virksomhedsmødet satte gruppen sig ned og snakkede løst og fast om løsningen
+
 
 **Referat af virksomhedsmøde**  
 - Kan læses [her](https://syddanskuni-my.sharepoint.com/:w:/g/personal/kechr19_student_sdu_dk/EWNZs0CXsStLpf8Ucuw0LLUBPQyIG0doDZ1zwUYXvZvkfA?e=XB8Sw2)
@@ -304,18 +311,58 @@ Samtale emner:
 
 <h3>Tirsdag d. 10/03</h3>
 
-**Tid:** 08.00 - ??.??  
+**Tid:** 08.00 - ??.??
 **Sted:** ø27-605-2
 
 **Forberedelse**  
 - Læs op på [Spring](https://spring.io/why-spring)
 - Tænk over idéer til posteren
 
+
 **Dagsorden**
+
 - Indsæt brugsmodeller i inceptionsdokumentet
 - Lav supplerende krav
 - Lav en domændemodel
 - Lav poster
+
+
+**Fremmødte**  
+- Alle
+
+**Referat af gruppemøde**  
+
+- Ingen pingpon - tv2 vil gerne have godkent
+- Det er okay med ansvar område, alle skal bare have en Ide om hvad de andre har lavet og kan sige til eksamen at den del har jeg ikke lavet, og men den gør det og det. 
+ 
+
+**Til næste møde**  
+
+- Lave poster færdig til næste gang.
+- Skriving
+	- Analyse 
+	- afgrænsing 
+	- metode
+
+---
+
+<h2 id="12">Uge 12</h2>
+
+<h3>Tirsdag d. 17/03</h3>
+
+**Tid:** 08.00 - ??.??  
+**Sted:** Ø27-605-02
+
+**Forberedelse**  
+
+- Lave poster færdig til næste gang.
+- Skriving
+	- Analyse 
+	- afgrænsing 
+	- metode
+
+	
+**Dagsorden**
 
 **Fremmødte**  
 
