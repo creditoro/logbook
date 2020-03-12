@@ -1,11 +1,19 @@
-# Uge 07
+<h2 id="07">Uge 7</h2>
 
-## Tirsdag - Projektarbejde
-## Sted: Ø22-508-1 Gr E
-## Tidspunkt: 08:00 - 14:00
-## Forbedrelse
-## Dagsorden
-## Fremødte
-## Referat:
-## Til næste gang:
+<h3>Tirsdag d. 11/02</h3>  
+
+**Sted:** *rummmets adresse*  
+**Tidspunkt:** ??.?? - ??.??  
+
+**Forberedelse**  
+
+**Dagsorden**  
+
+**Udeblivende medlemmer**
+
+**Referat af gruppemøde**
+
+**Referat af vejledermøde**
+
+**Til næste møde**
 
