@@ -6,7 +6,7 @@
 [Uge 10](#10)  
 [Uge 11](#11)  
 [Uge 12](#12)  
-
+[uge 13](#13)
 
 
 * * *
@@ -304,7 +304,6 @@ Samtale emner:
 - Læs op på [Spring](https://spring.io/why-spring)
 - Tænk over idéer til posteren
 
-
 ---
 
 <h2 id="11">Uge 11</h2>
@@ -332,7 +331,7 @@ Samtale emner:
 
 **Referat af gruppemøde**  
 
-- Ingen pingpon - tv2 vil gerne have godkent
+- Ingen pingpon - tv2 vil gerne have godkendt
 - Det er okay med ansvar område, alle skal bare have en Ide om hvad de andre har lavet og kan sige til eksamen at den del har jeg ikke lavet, og men den gør det og det. 
  
 
@@ -344,28 +343,100 @@ Samtale emner:
 	- afgrænsing 
 	- metode
 
+
+<h3>Søndag d. 15/03</h3>
+
+**Tid:** 16.00 - 18.00
+**Sted:** I privaten
+
+**Forberedelse**  
+- Ikke noget
+
+
+**Dagsorden**
+- Eftersom Covid-19 har lukket universitet, afholdes der ikke postersession. Dette gør at inceptionsdokumentet i stedet skal afleveres til review mandag d. 16.03 kl. 18.00.  
+- Få skabt et overblik over inceptionsdokumentet  
+
+**Fremmødte**  
+- Alle  
+
+**Referat af gruppemøde**  
+
+- Der belv dannet et overblik  over inceptionsdokumentet  
+- Der blev uddeligeret ansvarsområder  
+
+**Til næste møde**  
+
+- Der skal ikke forberedes noget til næste møde
+
 ---
 
 <h2 id="12">Uge 12</h2>
 
-<h3>Tirsdag d. 17/03</h3>
+<h3>Mandag d. 16/03</h3>
 
-**Tid:** 08.00 - ??.??  
-**Sted:** Ø27-605-02
+**Tid:** 12.30 - 17.30  
+**Sted:** I privaten
 
 **Forberedelse**  
+- Ingenting  
+	
+**Dagsorden**  
+- Færdiggør udkast til inceptionsdokumentet
 
-- Lave poster færdig til næste gang.
-- Skriving
-	- Analyse 
-	- afgrænsing 
-	- metode
+**Fremmødte**  
+- Alle  
 
+**Referat af gruppemøde**  
+- Forside og titelblad blev sat op  
+- Det forskellige afsnit blev skrevet færdig til en vis grad  
+- Tabeller og modeller blev indsat  
+- Bilag blev indsat  
+
+**Til næste møde** 
+- Der skal ikke forberedes noget til næste gang
+
+<h3>Tirsdag d. 17/03</h3>
+
+**Tid:** 10.00 - 16.00  
+**Sted:** I privaten
+
+**Forberedelse**  
+- Ingenting  
 	
 **Dagsorden**
+- Læs de review der er skrevet til inceptionsdokumentet  
+- Lav rettelser i forhold til reviewet  
+- Færdiggør inceptionsdokumentet  
+
+**Fremmødte**  
+- Alle  
+
+**Referat af gruppemøde**  
+- Gruppen startede ud med at læse reviewt fra Sarah  
+  - Gruppen gik halvdelen af reviewet igennem sammen
+    - Der blev lavet rettelser i afsnittene  
+
+**Til næste møde**  
+- Læs de modtagende reviews igennem  
+  - Noter punkter, så vi har et udgangspunkt at starte med til næste møde  
+
+
+<h3>Torsdag d. 19/03</h3>
+
+**Tid:** 10.00 - 14.00  
+**Sted:** I privaten
+
+**Forberedelse**  
+- Læs de modtagende reviews igennem  
+  - Noter punkter, så vi har et udgangspunkt at starte med til næste møde  
+	
+**Dagsorden**  
+- Gruppen fortsætter med at gennemgå reviewet  
+- Færdiggør inceptionsdokumentet  
 
 **Fremmødte**  
 
-**Referat af gruppemøde**  
+**Referat af gruppemøde**   
 
-**Til næste møde**  
+**Til næste møde** 
