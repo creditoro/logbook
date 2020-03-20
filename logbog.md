@@ -140,7 +140,7 @@
   
 <h3>Onsdag d. 19/02</h3>  
 
-**Sted:** Discord  
+**Sted:** Online  
 **Tidspunkt:** 08:00 - 13:00  
 
 **Forbedrelse**  
@@ -238,7 +238,7 @@ Samtale emner:
 
 <h3>Onsdag d. 26/02</h3>  
 
-**Sted:** Discord  
+**Sted:** Online  
 **Tidspunkt:** 09.00 - 12.00  
 
 **Forberedelse**  
@@ -347,7 +347,7 @@ Samtale emner:
 <h3>Søndag d. 15/03</h3>
 
 **Tid:** 16.00 - 18.00
-**Sted:** I privaten
+**Sted:** Online
 
 **Forberedelse**  
 - Ikke noget
@@ -376,7 +376,7 @@ Samtale emner:
 <h3>Mandag d. 16/03</h3>
 
 **Tid:** 12.30 - 17.30  
-**Sted:** I privaten
+**Sted:** Online
 
 **Forberedelse**  
 - Ingenting  
@@ -399,7 +399,7 @@ Samtale emner:
 <h3>Tirsdag d. 17/03</h3>
 
 **Tid:** 10.00 - 16.00  
-**Sted:** I privaten
+**Sted:** Online
 
 **Forberedelse**  
 - Ingenting  
@@ -425,7 +425,7 @@ Samtale emner:
 <h3>Torsdag d. 19/03</h3>
 
 **Tid:** 10.00 - 14.00  
-**Sted:** I privaten
+**Sted:** Online
 
 **Forberedelse**  
 - Læs de modtagende reviews igennem  
@@ -434,6 +434,52 @@ Samtale emner:
 **Dagsorden**  
 - Gruppen fortsætter med at gennemgå reviewet  
 - Færdiggør inceptionsdokumentet  
+
+**Fremmødte**  
+- Alle
+
+**Referat af gruppemøde**   
+- Gruppen arbejde videre med inceptionsdokumentet  
+  - De modtagede reviews blev gennemgået
+- Der er blevet lavet en liste over punkter der skulle gennemgåes/laves rettelser til
+
+**Til næste møde** 
+- Der skal ikke forberedes noget
+
+
+<h3>Fredag d. 20/03</h3>
+
+**Tid:** 10.00 - 13.00  
+**Sted:** Online
+
+**Forberedelse**  
+- Ingenting  
+	
+**Dagsorden**  
+- Færdiggør inceptionsdokumentet  
+
+**Fremmødte**  
+- Alle
+
+**Referat af gruppemøde**   
+- Listen blev gennemgået og der er blevet lavet de nødvendige rettelser
+- Inceptionsdokumentet er blevet afleveret
+
+**Til næste møde** 
+- Der skal ikke forberedes noget
+
+---
+
+<h2 id="13">Uge 13</h2>
+
+<h3>Tirsdag d. 24/03</h3>
+
+**Tid:** 10.00 - ??.??  
+**Sted:** Online
+
+**Forberedelse**  
+	
+**Dagsorden**  
 
 **Fremmødte**  
 
