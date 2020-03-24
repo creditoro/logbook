@@ -6,7 +6,7 @@
 [Uge 10](#10)  
 [Uge 11](#11)  
 [Uge 12](#12)  
-[uge 13](#13)
+[Uge 13](#13)
 
 
 * * *
@@ -474,15 +474,70 @@ Samtale emner:
 
 <h3>Tirsdag d. 24/03</h3>
 
-**Tid:** 10.00 - ??.??  
+**Tid:** 10.00 - 14.45  
 **Sted:** Online
 
 **Forberedelse**  
+- Ingenting
+	
+**Dagsorden**  
+- Kig på funktionelle og ikke-funktionelle krav til CPS
+- Kig på Scrum
+
+**Fremmødte**  
+- Alle
+
+**Referat af gruppemøde**  
+- Gruppen startede ud med at opstille funktionelle og ikke-funktionelle krav
+- Gruppen kiggede derefter på Scrum:
+  - Aftalt i gruppen
+    - Daglig Scrum bliver holdt ugentligt istedet for dagligt (Hver tirsdag)
+    - En sprint vare 2 uger
+    - Anvender Scrum board på ZenHub
+
+
+**Referat af vejledermøde**  
+- Startede med at snakke om inceptionsdokumnetet og de reviews vi modtog
+- Vejleder: Er I klar til elaborationsfasen?
+- [Scrum](https://www.mountaingoatsoftware.com/agile/scrum/resources/a-reusable-scrum-presentation)
+  - Der ligger nok et par timer i sprint reviews
+  - Skal det forståes som en status på sprintet?
+    - Hvordan er det gået, er der noget der skal forbedres?
+  - Anbefaler at vi holder os til sprints på 2-4 uger
+  - Roller
+    - Scrum master: Kristian
+    - Product owner: Jakob
+    - DevOp team: alle
+- Elaborationsfaserne - Brug posteren 
+  - Krav
+  - Analyse
+  - Design - Der laves mockup på Figma
+  - Implementering
+
+**Til næste møde** 
+- Genopfrisk processen og din viden om projektarbejde 
+  - Rekapitulér Software processes and process models, specielt [02B Software processes and process models  - praxis](https://docs.google.com/document/d/1zLdLmQ0A64hCN6ThhzKcMVn8_z_Eal2sW5sZwfW0EaU/edit?usp=sharing)
+  - Læs om projektarbejde [her](https://docs.google.com/document/d/1Ywgs6rWWREA3UvYP5YfHTsgbWzzsP-wT7SLRrh5uxMQ), [her](https://docs.google.com/document/d/1x4DApHiduI2siV70mM27f8HQ-irTDBgh7dG9AlrpK4c) og [her](https://docs.google.com/document/d/1_h44nQlm73ccjJ6MjZHngojfrSq8FW65R4HIldBaPZs)
+- Læs op på Scrum - [Her](https://www.mountaingoatsoftware.com/agile/scrum/resources/a-reusable-scrum-presentation), [her](http://www.scrum.org), [her](http://www.scrumguides.org/index.html) og [her](https://www.scrum.org/resources/what-scrumbut?gclid=Cj0KCQjwx7zzBRCcARIsABPRscOZlDcwTMGsFvHWlThuVVN8Rbj4YC_xJzoDA067gI9HzxDDSTtiJN4aAv50EALw_wcB)
+- Kig lidt på Figma
+
+
+<h3>Torsdag d. 26/03</h3>
+
+**Tid:** 08.00 - ??.??  
+**Sted:** Online
+
+**Forberedelse**  
+- Genopfrisk processen og din viden om projektarbejde 
+  - Rekapitulér Software processes and process models, specielt [02B Software processes and process models  - praxis](https://docs.google.com/document/d/1zLdLmQ0A64hCN6ThhzKcMVn8_z_Eal2sW5sZwfW0EaU/edit?usp=sharing)
+  - Læs om projektarbejde [her](https://docs.google.com/document/d/1Ywgs6rWWREA3UvYP5YfHTsgbWzzsP-wT7SLRrh5uxMQ), [her](https://docs.google.com/document/d/1x4DApHiduI2siV70mM27f8HQ-irTDBgh7dG9AlrpK4c) og [her](https://docs.google.com/document/d/1_h44nQlm73ccjJ6MjZHngojfrSq8FW65R4HIldBaPZs)
+- Læs op på Scrum - [Her](https://www.mountaingoatsoftware.com/agile/scrum/resources/a-reusable-scrum-presentation), [her](http://www.scrum.org), [her](http://www.scrumguides.org/index.html) og [her](https://www.scrum.org/resources/what-scrumbut?gclid=Cj0KCQjwx7zzBRCcARIsABPRscOZlDcwTMGsFvHWlThuVVN8Rbj4YC_xJzoDA067gI9HzxDDSTtiJN4aAv50EALw_wcB)
+- Kig lidt på Figma
 	
 **Dagsorden**  
 
 **Fremmødte**  
 
-**Referat af gruppemøde**   
+**Referat af gruppemøde**  
 
-**Til næste møde** 
+**Til næste møde**  
