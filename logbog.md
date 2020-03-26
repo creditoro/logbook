@@ -524,7 +524,7 @@ Samtale emner:
 
 <h3>Torsdag d. 26/03</h3>
 
-**Tid:** 08.00 - ??.??  
+**Tid:** 08.00 - 14.45  
 **Sted:** Online
 
 **Forberedelse**  
@@ -534,10 +534,22 @@ Samtale emner:
 - Læs op på Scrum - [Her](https://www.mountaingoatsoftware.com/agile/scrum/resources/a-reusable-scrum-presentation), [her](http://www.scrum.org), [her](http://www.scrumguides.org/index.html) og [her](https://www.scrum.org/resources/what-scrumbut?gclid=Cj0KCQjwx7zzBRCcARIsABPRscOZlDcwTMGsFvHWlThuVVN8Rbj4YC_xJzoDA067gI9HzxDDSTtiJN4aAv50EALw_wcB)
 - Kig lidt på Figma
 	
-**Dagsorden**  
+**Dagsorden**
+- Snak om Scrum
+- Analyser brugsmønstre
+  - Find eventuelle klasser - Navneordsanalyse
+  - Find struktur - klassediagram med relationer
+- Hvis der er tid - brugsmønsterrealisering
 
-**Fremmødte**  
+**Fremmødte**
+- Alle
 
-**Referat af gruppemøde**  
+**Referat af gruppemøde**
+- Gruppen startede dagen ud med at kigge på de funktionelle/ikke-funktionelle krav og fik dem afleveret
+- Der blev lavet issues på GitHub, så gruppen har overblik over hvad der skal laves
+  - Disse blev lagt ud i sprints og milestones, så gruppen har overblik over hvornår det skal laves
+- Der er skrevet detaljeret brugsmønstre
+- Projektdokumentet er blevet sat op
 
-**Til næste møde**  
+**Til næste møde**
+- Detaljerede brugsmømstre skal laves færdig
