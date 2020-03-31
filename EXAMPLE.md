@@ -1,19 +1,23 @@
-<h2 id="07">Uge 7</h2>
 
-<h3>Tirsdag d. 11/02</h3>  
+[comment]: <> (this is --------------------------------------------------------------------- Uge 14 - 31/03)
 
-**Sted:** *rummmets adresse*  
-**Tidspunkt:** ??.?? - ??.??  
+<h2 id="14">Uge 14</h2>
+
+<h3>Tirdag d. 31/03</h3>
+
+**Tid:** 08.00 - 14.45  
+**Sted:** Online
 
 **Forberedelse**  
+- ikke noget
+	
+**Dagsorden**
+- Navneordsanalyse
 
-**Dagsorden**  
-
-**Udeblivende medlemmer**
+**Fremmødte**
+- Alle
 
 **Referat af gruppemøde**
-
-**Referat af vejledermøde**
+- Gruppen startede dagen ud med at kigge på navnordanalysen
 
 **Til næste møde**
-
