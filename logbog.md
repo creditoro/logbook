@@ -6,10 +6,13 @@
 [Uge 10](#10)  
 [Uge 11](#11)  
 [Uge 12](#12)  
-[Uge 13](#13)
+[Uge 13](#13)  
+[Uge 14](#14)  
 
 
 * * *
+[comment]: <> (this is --------------------------------------------------------------------- Uge 08 - 11/02)
+
 <h2 id="07">Uge 7</h2>
 
 <h3>Tirsdag d. 11/02</h3>  
@@ -55,6 +58,7 @@
 
 ---
 
+[comment]: <> (this is --------------------------------------------------------------------- Uge 08 - 18/02)
 <h2 id="08">Uge 08</h2>
 
 <h3>Tirsdag d. 18/02</h3>  
@@ -138,6 +142,8 @@
 - Læse om inceptionsfasen (BB -> Assignments) 
 
   
+[comment]: <> (this is ------------------------------------------------------------------------------ 19/02)
+
 <h3>Onsdag d. 19/02</h3>  
 
 **Sted:** Online  
@@ -169,6 +175,8 @@ Samtale emner:
 - Det andet virksomhedsmøde
  
 ---
+
+[comment]: <> (this is --------------------------------------------------------------------- Uge 09 - 25/02)
 
 <h2 id="09">Uge 09</h2>
 
@@ -236,6 +244,9 @@ Samtale emner:
 - Færdiggør brugsmønstre
 - Lav epics på GitHub
 
+
+[comment]: <> (this is ------------------------------------------------------------------------------ 26/02)
+
 <h3>Onsdag d. 26/02</h3>  
 
 **Sted:** Online  
@@ -265,6 +276,9 @@ Samtale emner:
 * Der skal ikke forberedes noget
 
 ---
+
+
+[comment]: <> (this is --------------------------------------------------------------------- Uge 10 - 03/03)
 
 <h2 id="10">Uge 10</h2>
 
@@ -306,6 +320,9 @@ Samtale emner:
 
 ---
 
+
+[comment]: <> (this is --------------------------------------------------------------------- Uge 11 - 16/03)
+
 <h2 id="11">Uge 11</h2>
 
 <h3>Tirsdag d. 10/03</h3>
@@ -344,6 +361,7 @@ Samtale emner:
 	- metode
 
 
+[comment]: <> (this is ------------------------------------------------------------------------------ 15/03)
 <h3>Søndag d. 15/03</h3>
 
 **Tid:** 16.00 - 18.00
@@ -371,6 +389,8 @@ Samtale emner:
 
 ---
 
+[comment]: <> (this is --------------------------------------------------------------------- Uge 12 - 16/03)
+
 <h2 id="12">Uge 12</h2>
 
 <h3>Mandag d. 16/03</h3>
@@ -395,6 +415,9 @@ Samtale emner:
 
 **Til næste møde** 
 - Der skal ikke forberedes noget til næste gang
+
+
+[comment]: <> (this is ------------------------------------------------------------------------------ 17/03)
 
 <h3>Tirsdag d. 17/03</h3>
 
@@ -422,6 +445,8 @@ Samtale emner:
   - Noter punkter, så vi har et udgangspunkt at starte med til næste møde  
 
 
+[comment]: <> (this is ------------------------------------------------------------------------------ 19/03)
+
 <h3>Torsdag d. 19/03</h3>
 
 **Tid:** 10.00 - 14.00  
@@ -447,6 +472,8 @@ Samtale emner:
 - Der skal ikke forberedes noget
 
 
+[comment]: <> (this is ------------------------------------------------------------------------------ 20/03)
+
 <h3>Fredag d. 20/03</h3>
 
 **Tid:** 10.00 - 13.00  
@@ -470,8 +497,9 @@ Samtale emner:
 
 ---
 
-<h2 id="13">Uge 13</h2>
+[comment]: <> (this is --------------------------------------------------------------------- Uge 13 - 24/03)
 
+<h2 id="13">Uge 13</h2>
 <h3>Tirsdag d. 24/03</h3>
 
 **Tid:** 10.00 - 14.45  
@@ -522,6 +550,7 @@ Samtale emner:
 - Kig lidt på Figma
 
 
+[comment]: <> (this is ------------------------------------------------------------------------------ 26/03)
 <h3>Torsdag d. 26/03</h3>
 
 **Tid:** 08.00 - 14.45  
@@ -553,3 +582,27 @@ Samtale emner:
 
 **Til næste møde**
 - Detaljerede brugsmømstre skal laves færdig
+
+--- 
+
+[comment]: <> (this is --------------------------------------------------------------------- Uge 14 - 31/03)
+
+<h2 id="14">Uge 14</h2>
+
+<h3>Tirdag d. 31/03</h3>
+
+**Tid:** 08.00 - 14.45  
+**Sted:** Online
+
+**Forberedelse**  
+	
+**Dagsorden**
+- Navneordsanalyse
+
+**Fremmødte**
+- Alle
+
+**Referat af gruppemøde**
+- Gruppen startede dagen ud med at kigge på navnordanalysen
+
+**Til næste møde**
