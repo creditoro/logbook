@@ -5,7 +5,7 @@ Logbogen er skrevet i kronologisk rækkefølge.
 Det vil sige at man skal læse fra top til Bund. For at få en forståelse for hvordan vi har arbejdet.
 
 <h2>Ekstra Noter</h2>
-- 
+ 
 - [Holdet's time](holdets_time.md)
 
 <h2>Logbog entries</h2>
