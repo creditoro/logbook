@@ -1,5 +1,13 @@
 <h1>Logbog</h1>
 
+<h2>Sådan skal logbogen læses</h2>
+Logbogen er skrevet i kronologisk rækkefølge.
+Det vil sige at man kan læse fra top til Bund og få en forståelse for hvordan vi har arbejdet.
+
+<h2>Ekstra Noter</h2>
+- [Holdet's time](holdets_time.md)
+
+<h2>Logbog entries</h2>
 [Uge 07](#07)  
 [Uge 08](#08)  
 [Uge 09](#09)  
@@ -13,7 +21,7 @@
 * * *
 [comment]: <> (this is --------------------------------------------------------------------- Uge 08 - 11/02)
 
-<h2 id="07">Uge 7</h2>
+<h2 id="07">Uge 07</h2>
 
 <h3>Tirsdag d. 11/02</h3>  
 
@@ -595,6 +603,7 @@ Samtale emner:
 **Sted:** Online
 
 **Forberedelse**  
+- ikke noget
 	
 **Dagsorden**
 - Navneordsanalyse
