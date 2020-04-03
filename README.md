@@ -652,7 +652,8 @@ Samtale emner:
 **Referat af gruppemøde**
 
 **Til næste møde**
-
+- Operationssekvensdiagram
+- Opdater analysemodel
 
 [comment]: <> (this is --------------------------------------------------------------------- Uge 16 - 13/04)
 
