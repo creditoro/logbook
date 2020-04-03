@@ -602,7 +602,7 @@ Samtale emner:
 
 <h3>Tirdag d. 31/03</h3>
 
-**Tid:** 08.00 - 14.45  
+**Tid:** 08.00 - 16.00  
 **Sted:** Online
 
 **Forberedelse**  
@@ -610,11 +610,23 @@ Samtale emner:
 	
 **Dagsorden**
 - Navneordsanalyse
+- detaljeret brugsmønstrer
+- Klaseskatkandidater
+- Vejledermøde 11:15
+- Lave referencer I brugsmønstrer til hinanden
+- Pause 11:30 - 12:00
+- Daily Scrum møder 
+- Beskrivelse af klasser
 
 **Fremmødte**
 - Alle
 
 **Referat af gruppemøde**
 - Gruppen startede dagen ud med at kigge på navnordanalysen
+
+- **Til møde med vejleder** 
+	- Prekondition, referér til de andre brugsmønster
+	- Han spørg om vi har holdt daily scrum
+
 
 **Til næste møde**
