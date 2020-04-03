@@ -630,3 +630,47 @@ Samtale emner:
 
 
 **Til næste møde**
+
+[comment]: <> (this is ------------------------------------------------------------------------------ 03/04)
+
+<h3>Fredag d. 03/04</h3>
+
+**Tid:** 08.00 - 14.00
+**Sted:** Online
+
+**Forberedelse**  
+- ikke noget
+	
+**Dagsorden**
+- Supplementary requirements: detailed description 
+- Analysis model: Use case realization
+- Setup basic pipeline project
+
+**Fremmødte**
+- Alle
+
+**Referat af gruppemøde**
+
+**Til næste møde**
+
+
+[comment]: <> (this is --------------------------------------------------------------------- Uge 16 - 13/04)
+
+<h2 id="16">Uge 16</h2>
+
+<h3>Tirdag d. 13/04</h3>
+
+**Tid:** 08.00 - 16.00  
+**Sted:** Online
+
+**Forberedelse**  
+- ikke noget
+	
+**Dagsorden**
+
+**Fremmødte**
+- Alle
+
+**Referat af gruppemøde**
+
+**Til næste møde**
