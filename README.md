@@ -19,6 +19,8 @@ Det vil sige at man skal læse fra top til Bund. For at få en forståelse for h
 [Uge 12](#12)  
 [Uge 13](#13)  
 [Uge 14](#14)  
+[Uge 15](#15)  
+[Uge 16](#16)  
 
 
 * * *
@@ -635,7 +637,7 @@ Samtale emner:
 
 <h3>Fredag d. 03/04</h3>
 
-**Tid:** 08.00 - 14.00
+**Tid:** 08.00 - 14.00  
 **Sted:** Online
 
 **Forberedelse**  
@@ -655,23 +657,56 @@ Samtale emner:
 - Operationssekvensdiagram
 - Opdater analysemodel
 
-[comment]: <> (this is --------------------------------------------------------------------- Uge 16 - 13/04)
+[comment]: <> (this is --------------------------------------------------------------------- Uge 15 - 07/04)
 
-<h2 id="16">Uge 16</h2>
+<h2 id="15">Uge 15</h2>
 
-<h3>Tirdag d. 13/04</h3>
+<h3>Tirsdag d. 07/04</h3>
 
-**Tid:** 08.00 - 16.00  
+**Tid:** 08.00 - 16.00   
 **Sted:** Online
 
 **Forberedelse**  
 - ikke noget
 	
 **Dagsorden**
+- Påbegynd sprint 2
 
 **Fremmødte**
 - Alle
 
 **Referat af gruppemøde**
+- Gruppen startede ud med at snakke om det epics der lå i backloggen
+  - Der blev lavet en slagplan, og arbejde begyndte
+- 3 sprints blev færdiggjort, 1 tæt på færdiggjort og 1 ikke påbegyndt (mangler svar fra vejleder).
+- Der blev kigget på REST api'et
+  - Implementeret: User model og Channel model
+  - se GitHub for commits
 
-**Til næste møde**
+**Til næste møde**  
+- Have fun I guess
+
+[comment]: <> (this is --------------------------------------------------------------------- Uge 16 - 14/04)
+
+<h2 id="16">Uge 16</h2>
+
+<h3>Tirsdag d. 14/04</h3>
+
+**Tid:** 08.00 - 16.00   
+**Sted:** Online
+
+**Forberedelse**  
+	
+**Dagsorden**  
+
+**Fremmødte**  
+
+**Referat af gruppemøde**  
+
+**Referat af vejledermøde** 
+- Spørgsmål til vejleder:
+  - Alle de artefakter der er beskrevet i [posteren](https://drive.google.com/drive/folders/19gxrG79MkfTXGGursOcaC1W2KWOHy-S-), er det nogle vi skal have med?
+  - Kan vi få lidt feedback på vores inceptionsdokument?
+  - Kan vi få svar på vores mail?
+
+**Til næste møde**  
