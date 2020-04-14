@@ -696,17 +696,30 @@ Samtale emner:
 **Sted:** Online
 
 **Forberedelse**  
+- Ingenting
 	
-**Dagsorden**  
+**Dagsorden** 
+- Lav CPS færdig
+- Lav design
+- 
 
 **Fremmødte**  
+- Alle
 
 **Referat af gruppemøde**  
+- Gruppen startede ud med at lave CPS
+- Design mock-up
+- Gruppen startede med at kode
+  - Se GitHub for commits
 
 **Referat af vejledermøde** 
 - Spørgsmål til vejleder:
   - Alle de artefakter der er beskrevet i [posteren](https://drive.google.com/drive/folders/19gxrG79MkfTXGGursOcaC1W2KWOHy-S-), er det nogle vi skal have med?
+    - Kun dem vi har arbejdet med
   - Kan vi få lidt feedback på vores inceptionsdokument?
+    - Får vi i morgen højst sandsynlig
   - Kan vi få svar på vores mail?
+    - Fik vi ja
 
 **Til næste møde**  
+- Til næste tirsdag skal de epics der ligger i vores roadmap på zenhub implementeres
