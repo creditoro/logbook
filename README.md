@@ -723,3 +723,96 @@ Samtale emner:
 
 **Til næste møde**  
 - Til næste tirsdag skal de epics der ligger i vores roadmap på zenhub implementeres
+
+
+
+<h3>Fredag d. 17/04</h3>
+
+**Tid:** 08.00 - 16.00   
+**Sted:** Online
+
+**Forberedelse**  
+- Ingenting
+	
+**Dagsorden** 
+- Implementering 
+
+**Fremmødte**  
+- Alle
+
+**Referat af gruppemøde**  
+- Gruppen startede med at kode
+  - Se GitHub for commits
+
+**Til næste møde**  
+- Til næste tirsdag skal de epics der ligger i vores roadmap på zenhub implementeres
+
+[comment]: <> (this is --------------------------------------------------------------------- Uge 17)
+
+<h2 id="17">Uge 17</h2>
+
+<h3>Mandag d. 20/04</h3>
+
+**Tid:** 15.00 - sent   
+**Sted:** Online
+
+**Forberedelse**  
+- Ingenting
+	
+**Dagsorden** 
+- Implementering
+
+**Fremmødte**  
+- Alle
+
+**Referat af gruppemøde**  
+- Gruppen startede med at kode
+  - Se GitHub for commits
+
+**Til næste møde**  
+- Til næste tirsdag skal de epics der ligger i vores roadmap på zenhub implementeres
+
+
+<h3>Tirsdag d. 21/04</h3>
+
+**Tid:** 08.00 - 16.00   
+**Sted:** Online
+
+**Forberedelse**  
+- Fremlæggeles af vores løsning
+	
+**Dagsorden** 
+- Prokjektseminar
+- Rapportskrivning
+
+**Fremmødte**  
+- Alle
+
+**Referat af gruppemøde**  
+- Projektseminar
+- Anvsarsområder i skriveprocessen til 1. iteration blev lavet
+- Opdatering af scrum board, så alle issues for iteration 2 er med
+- Rapportskrivning
+
+**Til næste møde**  
+- færdiggøre afsnit man har ansvar for
+
+<h3>onsdag d. 22/04</h3>
+
+**Tid:** 08.00 - 16.00   
+**Sted:** Online
+
+**Forberedelse**  
+- Rapportskrivning
+	
+**Dagsorden** 
+- Rapportskrivning
+
+**Fremmødte**  
+- Alle
+
+**Referat af gruppemøde**  
+- Rapportskrivning
+
+**Til næste møde**  
+- færdiggøre afsnit man har ansvar for
