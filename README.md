@@ -21,8 +21,9 @@ Det vil sige at man skal læse fra top til Bund. For at få en forståelse for h
 [Uge 14](#14)  
 [Uge 15](#15)  
 [Uge 16](#16)  
-[Uge 17](#17)
-
+[Uge 17](#17)  
+[Uge 18](#18)  
+[Uge 19](#19)  
 
 * * *
 [comment]: <> (this is --------------------------------------------------------------------- Uge 08 - 11/02)
@@ -798,7 +799,7 @@ Samtale emner:
 **Til næste møde**  
 - færdiggøre afsnit man har ansvar for
 
-<h3>onsdag d. 22/04</h3>
+<h3>Onsdag d. 22/04</h3>
 
 **Tid:** 08.00 - 16.00   
 **Sted:** Online
@@ -817,3 +818,111 @@ Samtale emner:
 
 **Til næste møde**  
 - færdiggøre afsnit man har ansvar for
+
+<h3>Fredag d. 24/04</h3>
+
+**Tid:** 13.00 - sent   
+**Sted:** Online
+
+**Forberedelse**  
+- Rapportskrivning
+	
+**Dagsorden** 
+- Færdiggørelse af 1. iteration
+
+**Fremmødte**  
+- Alle
+
+**Referat af gruppemøde**  
+- Rapportskrivning + rettelser
+- Koden blev kigget igennem
+- Koden blev aflerevet med et uddrag af projektrapporten
+
+**Til næste møde**  
+- Ingenting
+
+
+[comment]: <> (this is --------------------------------------------------------------------- Uge 18)
+
+<h2 id="18">Uge 18</h2>
+
+<h3>Tirsdag d. 28/04</h3>
+
+**Tid:** 08.00 - 15.00   
+**Sted:** Online
+
+**Forberedelse**  
+- Ingenting
+	
+**Dagsorden** 
+- Implmentering af issues i backlog til sprint 3
+
+**Fremmødte**  
+- Alle (Ingen Kristian - meldt)
+
+**Referat af gruppemøde**  
+- Gruppen startede ud med at gå igennem backloggen og sikrede, at alle vidste hvad de skulle gå i gang med.
+- Implementering
+  - Følgende issues blev åbnet:
+    - Desktop: 16, 30, 34, 35, 40, 42,, 48, 51, 60
+    - API: 33, 34
+  - Følgende issues er blevet lukket:
+    - Desktop: 14, 47
+    - Report: 39, 60, 62, 63, 64, 65
+
+**Til næste møde**  
+- Ingenting
+
+[comment]: <> (this is --------------------------------------------------------------------- Uge 19)
+
+<h2 id="19">Uge 19</h2>
+
+<h3>Tirsdag d. 05/05</h3>
+
+**Tid:** 08.00 - 16.00   
+**Sted:** Online
+
+**Forberedelse**  
+- Ingenting
+	
+**Dagsorden** 
+- Implmentering af issues i backlog til sprint 3
+
+**Fremmødte**  
+- Alle
+
+**Referat af gruppemøde**  
+- Gruppen startede ud med at gå igennem backloggen og sikrede, at alle vidste hvad de skulle gå i gang med.
+- Implementering
+  - Testfx er sat op, så der nu kan laves unittest på JavaFX
+  - Følgende issues blev åbnet:
+    - Dekstop: 48, 52, 53, 56, 57
+    - API: 
+    - EPG-Poller: 10
+  - Følgende issues er blevet lukket:
+    - Desktop: 51
+    - API: 33, 34
+    - EPG-Poller: 8, 9
+    
+**Vejledermøde**
+- Spørgsmål om CPS delen
+  - Lav et afsnit omkring designdelen der omhandler CPS
+- Feedback fra 1. iteration
+  - Under SQL forespørgelser
+    - Dette er noget censor vil spørge meget ind til hvis ikke det bliver ændret
+    - API kald skal lægges i bilag, og så skal der fokuseres mere på SQL kald
+  - Generelt:
+    - Rapporten skal fokusere på det opgaven går ud på, og ikke det vi laver som er uden for scope (API, EPG)
+    - Derfor skal det prioriteres hvad der indgår i rapporten, og hvad der skal lægges i bilag.
+      - Alt python, API kald osv., skal i bilag
+    - Vi skal prioritere hvad der indgår i rapporten
+      - Alt der ikke er "vigtigt" for at løse den stillede opgave skal i bilag, hvor der laves en reference til det i rapporten
+- Eksamen
+  - Den videopræsentation vi skal aflevere inden eksamen er i stedet for gruppedelen af eksamen.
+    - Videoen skal indeholde det samme som gruppedelen på 1. semester
+  - Kommer til at foregå på Zoom
+    - Vi sidder i et venterum, og så bliver vi hentet ind én af gangen.
+    - Endnu usikkert om vi skal bruge en form for webcam
+
+**Til næste møde**  
+- Færdiggøre implementeringen af de issues man har ansvar for
