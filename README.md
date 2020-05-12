@@ -24,6 +24,7 @@ Det vil sige at man skal læse fra top til Bund. For at få en forståelse for h
 [Uge 17](#17)  
 [Uge 18](#18)  
 [Uge 19](#19)  
+[Uge 20](#20)  
 
 * * *
 [comment]: <> (this is --------------------------------------------------------------------- Uge 08 - 11/02)
@@ -855,7 +856,7 @@ Samtale emner:
 - Ingenting
 	
 **Dagsorden** 
-- Implmentering af issues i backlog til sprint 3
+- Implementering af issues i backlog til sprint 3
 
 **Fremmødte**  
 - Alle (Ingen Kristian - meldt)
@@ -864,7 +865,7 @@ Samtale emner:
 - Gruppen startede ud med at gå igennem backloggen og sikrede, at alle vidste hvad de skulle gå i gang med.
 - Implementering
   - Følgende issues blev åbnet:
-    - Desktop: 16, 30, 34, 35, 40, 42,, 48, 51, 60
+    - Desktop: 16, 30, 34, 35, 40, 42, 48, 51, 60
     - API: 33, 34
   - Følgende issues er blevet lukket:
     - Desktop: 14, 47
@@ -886,7 +887,7 @@ Samtale emner:
 - Ingenting
 	
 **Dagsorden** 
-- Implmentering af issues i backlog til sprint 3
+- Implementering af issues i backlog til sprint 3
 
 **Fremmødte**  
 - Alle
@@ -926,3 +927,41 @@ Samtale emner:
 
 **Til næste møde**  
 - Færdiggøre implementeringen af de issues man har ansvar for
+
+[comment]: <> (this is --------------------------------------------------------------------- Uge 20)
+
+<h2 id="20">Uge 20</h2>
+
+<h3>Tirsdag d. 12/05</h3>
+
+**Tid:** 08.00 - 16.00   
+**Sted:** Online
+
+**Forberedelse**  
+- Ingenting
+	
+**Dagsorden** 
+- Implementering af issues i backlog til sprint 3
+
+**Fremmødte**  
+- Alle pånær Kristian
+
+**Referat af gruppemøde**  
+- Gruppen startede ud med at gå igennem backloggen og sikrede, at alle vidste hvad de skulle gå i gang med.
+- Implementering
+  - Følgende issues blev åbnet:
+    - Dekstop: 
+    - API: 
+    - EPG-Poller: 
+  - Følgende issues er blevet lukket:
+    - Desktop: 16, 34, 35, 40, 42, 51, 56, 57, 60
+    - API: 
+    - EPG-Poller: 
+  - Klassemøde om eksamen
+
+**Vejledermøde**
+- Igenting
+
+**Til næste møde**  
+- Færdiggøre implementeringen af de issues man har ansvar for
+
