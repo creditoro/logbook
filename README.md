@@ -25,6 +25,8 @@ Det vil sige at man skal læse fra top til Bund. For at få en forståelse for h
 [Uge 18](#18)  
 [Uge 19](#19)  
 [Uge 20](#20)  
+[Uge 21](#21)  
+
 
 * * *
 [comment]: <> (this is --------------------------------------------------------------------- Uge 08 - 11/02)
@@ -965,3 +967,53 @@ Samtale emner:
 **Til næste møde**  
 - Færdiggøre implementeringen af de issues man har ansvar for
 
+[comment]: <> (this is --------------------------------------------------------------------- Uge 21)
+
+<h2 id="21">Uge 21</h2>
+
+<h3>Mandag d. 18/05</h3>
+
+**Tid:** 08.00 - 16.00   
+**Sted:** Online
+
+**Forberedelse**  
+- Ingenting
+	
+**Dagsorden** 
+- Implementering af issues i backlog
+
+**Fremmødte**  
+- Alle pånær Kristian
+
+**Referat af gruppemøde**  
+- De enkelte branches, gruppemedlemmerne har arbejdet på, blev merged med master, og der blev dannet et overblik.
+- Gruppen arbjedede derefter videre.
+
+
+**Til næste møde**  
+- Færdiggøre implementeringen af de issues man har ansvar for
+
+
+<h3>Tirsdag d. 19/05</h3>
+
+**Tid:** 08.00 - 16.00   
+**Sted:** Online
+
+**Forberedelse**  
+- Ingenting
+	
+**Dagsorden** 
+- Implementering af issues i backlog
+
+**Fremmødte**  
+- Alle
+
+**Referat af gruppemøde**  
+- Der blev implementeret og merged. 
+  - Bl.a.: frontpage, production
+
+**Vejledermøde**
+- Gruppen fremviste deres program
+
+**Til næste møde**  
+- Færdiggøre implementeringen af de issues man har ansvar for
