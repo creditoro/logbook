@@ -26,6 +26,7 @@ Det vil sige at man skal læse fra top til Bund. For at få en forståelse for h
 [Uge 19](#19)  
 [Uge 20](#20)  
 [Uge 21](#21)  
+[Uge 22](#22)  
 
 
 * * *
@@ -1017,3 +1018,42 @@ Samtale emner:
 
 **Til næste møde**  
 - Færdiggøre implementeringen af de issues man har ansvar for
+
+
+[comment]: <> (this is --------------------------------------------------------------------- Uge 22)
+
+<h2 id="21">Uge 22</h2>
+
+<h3>Tirsdag d. 19/05</h3>
+
+**Tid:** 09.00 - 16.00   
+**Sted:** Online
+
+**Forberedelse**  
+- Færdiggørelse af implementering
+	
+**Dagsorden** 
+- Få skriveprocessen færdiggjort
+
+**Fremmødte**  
+- Alle pånær Kristian
+
+**Referat af gruppemøde**  
+- Der blev dannet et overblik over hvilke afsnit der manglede at blive skrevet
+  - Disse blev uddelegeret og påbegyndt 
+
+**Vejledermøde**
+- Zoom blev testet, så gruppemedlemmerne kunne se hvordan det kommer til at foregå til eksamen
+- Spørgsmål:
+  - Skal SQL filen indeholde insert, delete osv. queries?
+    - ja, det skal den, selvom dataen ikke skal bruges til noget
+  - Analyseafsnittet af EPG og API, hvor dybdegående skal det være?
+    - Det må gerne være overfladisk
+  - Kode i rapporten, er det et pladsspørgsmål om det skal være i brødteksten eller i bilag?
+    - Hav det med der giver mening, og vælg kode ud fra brugsmønstrene
+- Eksamen kommer på nuværende tidspunkt til at foregå d. 18. om formiddagen.
+  - Videoen skal så afleveres d. 11.
+
+
+**Til næste møde**  
+- Dette var den sidste officielle gruppedag. 
